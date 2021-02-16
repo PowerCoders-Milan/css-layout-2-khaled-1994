@@ -1,0 +1,23 @@
+.flex {
+    display: flex;
+    min-height: 100vh;
+    text-align: center;
+    flex-direction: column;
+ 
+ }
+ .header {   
+    height: 10vh;
+   background-color: red;
+    
+ }
+ 
+ .main {
+ flex: 1;
+ background-color: rebeccapurple;
+ 
+ }
+ .footer-flex {
+    
+ height:30vh;
+ background-color: rosybrown;
+}
